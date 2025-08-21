@@ -48,7 +48,7 @@ Manual_Testing_Book_Shop_Project/
 ## 🛠️ Tools Used
 
 - **MS Excel / Google Sheets** for documentation and traceability  
-- **Draw.io** for creating diagrams where required  
+
 
 ---
 
