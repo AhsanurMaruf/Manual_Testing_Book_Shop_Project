@@ -1,58 +1,69 @@
-# 📚 Manual Testing - Book Shop Project
+# 📚 Manual Testing Book Shop Project
 
-This repository contains **manual testing documentation** for a demo **Book Shop Project**, created **purely for learning purposes**.  
-It includes **FRS, RTM, Test Plan, Test Scenarios, and Test Cases** to demonstrate end-to-end manual testing practices.
+This repository contains the **Manual Testing deliverables** for a demo **Book Shop Project** created for learning and practice purposes. The project starts from requirement analysis and goes through all key phases of manual testing, ensuring a structured and professional workflow.
+
+---
+
+## 📝 Project Workflow
+
+1. **Functional Requirement Specification (FRS)**  
+   - Collected and documented all functional requirements of the Book Shop system.
+
+2. **Test Plan**  
+   - Designed a comprehensive testing strategy covering the scope, approach, resources, schedule, and risk factors for the project.
+
+3. **Test Scenarios**  
+   - Created **21 test scenarios** to validate functional and non-functional requirements of the application.
+
+4. **Test Cases**  
+   - Developed detailed **test cases for each test scenario** with steps, test data, expected results, and actual results.
+
+5. **Requirements Traceability Matrix (RTM)**  
+   - Mapped each **requirement** with its corresponding **test scenario** and **test cases** to ensure complete coverage.
 
 ---
 
-# Manual_Testing_Book_Shop_Project
-Manual testing documentation for a demo Book Shop Project created purely for learning purposes. Includes FRS, RTM, Test Plan, Test Scenarios, and Test Cases. This project was designed based on given requirements only; hence, bug reports and test execution reports are not included in this repository.
-
----
-## 📁 Project Structure
-
+## 📂 Project Structure
 
 Manual_Testing_Book_Shop_Project/
 ├── 📄 FRS (Functional Requirement Specification)
-├── 📄 RTM (Requirements Traceability Matrix)
 ├── 📄 Test Plan
 ├── 📄 Test Scenarios
-└── 📄 Test Cases
+├── 📄 Test Cases
+└── 📄 RTM (Requirements Traceability Matrix)
+
+
 
 
 ---
 
-## 📝 About the Project
+## 🚀 Purpose
 
-- This is a **demo project**, created based on **given requirements only**.  
-- **Bug Reports** and **Test Execution Reports** are **not included**, as this project was not tested on a live or hosted application.  
-- It serves as a **practice project** for building strong manual testing skills.
-
----
-
-## 🎯 Objectives
-
-- Practice creating **structured manual testing documents**.
-- Understand the **relationship between requirements and test cases** using the RTM.
-- Simulate a **real-world QA process** for skill improvement.
+- Designed as a **demo manual testing project** for practice and skill development.  
+- Not linked to a live or deployed web application — only based on documented requirements.  
+- Helps understand **end-to-end manual testing processes** followed in real-world QA workflows.
 
 ---
 
-## 🚀 How to Use
+## 🛠️ Tools Used
 
-1. Review the **FRS** to understand project requirements.  
-2. Follow the **RTM** to see coverage mapping between requirements and test cases.  
-3. Explore **Test Scenarios and Test Cases** to understand detailed test design.  
-4. Use the **Test Plan** as a guide for structured execution planning.
+- **MS Excel / Google Sheets** for documentation and traceability  
+- **Draw.io** for creating diagrams where required  
 
 ---
 
-## 📌 Note
-This project is **for learning and practice only**.  
-It is **not connected to a live Book Shop web application**.
+## 📌 Key Highlights
+
+- Structured documentation for all testing phases.  
+- Complete linkage from **requirements → scenarios → test cases** through RTM.  
+- Designed for **learning, demonstration, and portfolio building**.
 
 ---
 
-## 🤝 Connect with Me
-If you have feedback or suggestions for improvement, feel free to connect on [LinkedIn](www.linkedin.com/in/marufqa).
+## 👤 Author
 
+**Md. Ahsanur Maruf**  
+Manual & Automation Testing Enthusiast | QA Engineer  
+[LinkedIn Profile](www.linkedin.com/in/marufqa)
+
+---
