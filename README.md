@@ -9,10 +9,9 @@ It includes **FRS, RTM, Test Plan, Test Scenarios, and Test Cases** to demonstra
 Manual testing documentation for a demo Book Shop Project created purely for learning purposes. Includes FRS, RTM, Test Plan, Test Scenarios, and Test Cases. This project was designed based on given requirements only; hence, bug reports and test execution reports are not included in this repository.
 
 ---
-
-
 ## 📁 Project Structure
 
+```text
 Manual_Testing_Book_Shop_Project/
 ├── 📄 FRS (Functional Requirement Specification)
 ├── 📄 RTM (Requirements Traceability Matrix)
@@ -55,5 +54,5 @@ It is **not connected to a live Book Shop web application**.
 ---
 
 ## 🤝 Connect with Me
-If you have feedback or suggestions for improvement, feel free to connect on [LinkedIn](https://linkedin.com).
+If you have feedback or suggestions for improvement, feel free to connect on [LinkedIn](www.linkedin.com/in/marufqa).
 
