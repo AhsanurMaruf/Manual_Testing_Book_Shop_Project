@@ -11,7 +11,7 @@ Manual testing documentation for a demo Book Shop Project created purely for lea
 ---
 ## 📁 Project Structure
 
-```text
+
 Manual_Testing_Book_Shop_Project/
 ├── 📄 FRS (Functional Requirement Specification)
 ├── 📄 RTM (Requirements Traceability Matrix)
@@ -19,7 +19,7 @@ Manual_Testing_Book_Shop_Project/
 ├── 📄 Test Scenarios
 └── 📄 Test Cases
 
-```text
+
 ---
 
 ## 📝 About the Project
