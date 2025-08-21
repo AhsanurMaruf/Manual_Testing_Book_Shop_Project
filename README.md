@@ -19,7 +19,7 @@ Manual_Testing_Book_Shop_Project/
 ├── 📄 Test Scenarios
 └── 📄 Test Cases
 
-
+```text
 ---
 
 ## 📝 About the Project
